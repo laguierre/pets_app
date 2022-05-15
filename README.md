@@ -26,7 +26,7 @@ A short demo of a Sport Shop Flutter application, using Hero and Transform widge
 
 ## GIF
 <p align="center">
-<img src="screenshots/sport.gif" height="700">
+<img src="screenshots/untitled.gif" height="700">
 </p>
 
 ## Screenshots

@@ -1,10 +1,12 @@
 # Pet App Flutter App
 
-A short demo of a Sport Shop Flutter application, using Hero and Transform widget. Inspired in @stark_trent's design [link](https://www.instagram.com/p/CQ3XpZaD-yM/).
+A short demo of a Pet Adoption App Flutter App Flutter application, using animated container and a transform through Matrix translate. 
+Inspired in Marina Logunova's design [link](https://dribbble.com/shots/6617690--Pets-Adoption-App/attachments/6617690--Pets-Adoption-App?mode=media).
 - PageView.builder.
 - Provider for conserve the state of the buttons and filter by categories.
 - Carousel Slider.
-- Auto Size Font for autosize the text when scrollinh.
+- Auto Size Font for autosize the text when scrolling.
+- AnimatedContainer for make a custom drawer with animation. Also, use a Matrix4.translationValues.
 
 ##Graphical resource
 - FlatIcon [link](www.flaticon.com/)
